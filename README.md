@@ -1,2 +1,2 @@
-# moontea
+# moon
 Moon for tea testnet
